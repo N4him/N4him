@@ -4,7 +4,7 @@
 <h1 align="center">Hola soy Esteban Hernández 👋</h1>
 <h3 align="center">Soy Ingeniero de Sistemas (pendiente de ceremonia de grado) con experiencia en el desarrollo de aplicaciones web y móviles. He participado en proyectos empresariales utilizando tecnologías como React, Flutter, Django y Django REST Framework, desarrollando interfaces, integrando APIs REST y colaborando en la implementación de soluciones de software.</h3>
 
-- Desarrollo de aplicaciones con React Native y proyectos personales de desarrollo de software. **TQIDO MOBILE**
+- Estoy trabajando para el desarrollo de la aplicacion TQIDO MOBILED con react native
 
 - Actualmente estoy aprendiendo **React Native, Laravel y buenas prácticas de arquitectura de software.**
 
