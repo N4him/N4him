@@ -8,7 +8,7 @@
 
 - Actualmente estoy aprendiendo **React Native, Laravel y buenas prácticas de arquitectura de software.**
 
-- Busco colaborar en **Proyectos de desarrollo web y móvil utilizando React, Flutter o Django.**
+- Busco colaborar en **Proyectos de desarrollo web y móvil utilizando React, Flutter, Django o Laravel**
 
 - Busco ayuda en **Arquitectura de software y desarrollo de aplicaciones escalables.**
 
