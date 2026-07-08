@@ -69,7 +69,7 @@ He participado en proyectos empresariales y académicos desarrollando aplicacion
 🔹 **TQIDO**
 Frontend desarrollado con React para una plataforma que conecta clientes con cuidadores.
 
-🔹 **Aplicación Flutter**
+🔹 **Aplicaciónes Flutter**
 Desarrollo de aplicación móvil con integración mediante APIs REST.
 
 ---
