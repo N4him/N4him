@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/...](https://co.pinterest.com/pin/96264510778698646/)" width="700">
+</p>
 <h1 align="center">Hola soy Esteban Hernández 👋</h1>
 <h3 align="center">Soy Ingeniero de Sistemas (pendiente de ceremonia de grado) con experiencia en el desarrollo de aplicaciones web y móviles. He participado en proyectos empresariales y académicos utilizando tecnologías como React, Flutter, Django y Django REST Framework, desarrollando interfaces, integrando APIs REST y colaborando en la implementación de soluciones de software.</h3>
 
