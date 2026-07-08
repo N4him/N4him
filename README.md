@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N4him/9070324cdfc07c68d60eed0c39e77573.gif" width="800" alt="Demo de SIGEM">
+  <img src="https://github.com/N4him/N4him/blob/main/9070324cdfc07c68d60eed0c39e77573.gif" width="800" alt="Demo de SIGEM">
 </p>
 <h1 align="center">Hola soy Esteban Hernández 👋</h1>
 <h3 align="center">Soy Ingeniero de Sistemas (pendiente de ceremonia de grado) con experiencia en el desarrollo de aplicaciones web y móviles. He participado en proyectos empresariales utilizando tecnologías como React, Flutter, Django y Django REST Framework, desarrollando interfaces, integrando APIs REST y colaborando en la implementación de soluciones de software.</h3>
