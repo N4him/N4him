@@ -64,8 +64,7 @@ He participado en proyectos empresariales y académicos desarrollando aplicacion
 
 ## 📌 Proyectos destacados
 
-🔹 **SIGEM**  
-Sistema para la gestión de espacios universitarios desarrollado con Django.
+🔹 **SIGEM**  Sistema para la gestión de espacios universitarios desarrollado con Django.
 
 🔹 **TQIDO**
 Frontend desarrollado con React para una plataforma que conecta clientes con cuidadores.
