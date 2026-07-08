@@ -1,23 +1,82 @@
 <p align="center">
-  <img src="https://github.com/N4him/N4him/blob/main/9070324cdfc07c68d60eed0c39e77573.gif" width="800" alt="Demo de SIGEM">
-</p>
-<h1 align="center">Hola soy Esteban Hernández 👋</h1>
-<h3 align="center">Soy Ingeniero de Sistemas (pendiente de ceremonia de grado) con experiencia en el desarrollo de aplicaciones web y móviles. He participado en proyectos empresariales utilizando tecnologías como React, Flutter, Django y Django REST Framework, desarrollando interfaces, integrando APIs REST y colaborando en la implementación de soluciones de software.</h3>
-
-- Estoy trabajando para el desarrollo de la aplicacion **TQIDO MOBILE** con react native
-
-- Actualmente estoy aprendiendo **React Native, Laravel y buenas prácticas de arquitectura de software.**
-
-- Busco colaborar en **Proyectos de desarrollo web y móvil utilizando React, Flutter, Django o Laravel**
-
-- Busco ayuda en **Arquitectura de software y desarrollo de aplicaciones escalables.**
-
-- Pregúntame sobre **React, Flutter, Django, APIs REST, desarrollo web y desarrollo móvil.**
-
-<p align="left">
-<h2 align="center">Contáctame</h2>
-<h5 align="center">estebans7813@gmail.com</h5>
+  <img src="https://github.com/N4him/N4him/blob/main/9070324cdfc07c68d60eed0c39e77573.gif" width="900" alt="Banner">
 </p>
 
-<h3 align="left">Lenguajes de programacion y herramientas que uso:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h1 align="center">Hola, soy Esteban Hernández 👋</h1>
+
+<h3 align="center">
+Ingeniero de Sistemas 💻 <br>
+Desarrollador Web & Mobile <br>
+React • Flutter • Django • React Native
+</h3>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy Ingeniero de Sistemas (pendiente de ceremonia de grado) con experiencia en el desarrollo de aplicaciones web y móviles.
+
+He participado en proyectos empresariales y académicos desarrollando aplicaciones con **React, Flutter, Django y Django REST Framework**, integrando APIs REST y construyendo soluciones de software enfocadas en rendimiento, mantenibilidad y experiencia de usuario.
+
+---
+
+## 🚀 Actualmente
+
+- 📱 Desarrollando **TQIDO Mobile** con React Native.
+- 🌱 Aprendiendo **Laravel**, **React Native** y arquitectura de software.
+- 🤝 Abierto a colaborar en proyectos de desarrollo web y móvil.
+
+---
+
+## 🛠 Tecnologías
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,python,laravel,express,nodejs" />
+</p>
+
+### Bases de datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+### DevOps y herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,postman" />
+</p>
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 **SIGEM**  
+Sistema para la gestión de espacios universitarios desarrollado con Django.
+
+🔹 **TQIDO**
+Frontend desarrollado con React para una plataforma que conecta clientes con cuidadores.
+
+🔹 **Aplicación Flutter**
+Desarrollo de aplicación móvil con integración mediante APIs REST.
+
+---
+
+## 📫 Contacto
+
+📧 **estebans7813@gmail.com**
+
+```
