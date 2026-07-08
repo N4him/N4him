@@ -14,7 +14,7 @@
 
 - Pregúntame sobre **React, Flutter, Django, APIs REST, desarrollo web y desarrollo móvil.**
 
-- Cómo contactarme ** estebans7813@gmail.com**
+- Cómo contactarme **estebans7813@gmail.com**
 <p align="left">
 </p>
 
